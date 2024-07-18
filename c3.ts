@@ -8,6 +8,9 @@ export default {
       js: {
         path: "./js",
       },
+      ts: {
+        path: "./js",
+      },
     },
   },
 };
