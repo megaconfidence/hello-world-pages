@@ -1,0 +1,13 @@
+{
+	"name": "<TBD>",
+	"version": "0.0.0",
+	"private": true,
+	"scripts": {
+		"deploy": "wrangler pages deploy",
+		"dev": "wrangler pages dev",
+		"start": "wrangler pages dev"
+	},
+	"devDependencies": {
+		"wrangler": "^3.60.3"
+	}
+}
