@@ -4,6 +4,10 @@ export default {
   displayName: '"Hello World" Pages',
   platform: "pages",
   copyFiles: {
-    path: "./js",
+    variants: {
+      js: {
+        path: "./js",
+      },
+    },
   },
 };
