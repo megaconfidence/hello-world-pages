@@ -11,6 +11,9 @@ export default {
       ts: {
         path: "./ts",
       },
+      assets: {
+        path: "./assets",
+      },
     },
   },
 };
